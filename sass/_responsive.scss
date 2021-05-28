@@ -1,0 +1,31 @@
+@media (max-width:400px) {
+    header{
+       
+    
+        .main{
+            
+    
+            .center{
+                
+                
+                .link_btn{
+                    margin-top:40px;
+                    a{
+                        text-decoration: none;
+                        color: $primary-color;
+                        margin-top:20px;
+                        padding:5px 12px;
+                        background-color: $bg-color2;
+                        border-radius: 27px;
+                        border: 2px solid $primary-color; 
+                        transition:  $transition;
+                        font-size: 14px;
+                        display: inline-block;
+                    }
+                    
+                }
+            }
+        }
+    }
+   
+}
